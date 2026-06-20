@@ -3,8 +3,8 @@
 I build practical software: client-server applications, desktop GUI tools and Telegram bots.
 
 ## Contact
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn:%20Sam%20Makarov-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/sam-makarov-94500a402)
-[![Gmail](https://img.shields.io/badge/Gmail:%20makarovsam13@gmail.com-D14836?logo=gmail&logoColor=white)](makarovsam13@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Sam%20Makarov-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/sam-makarov-94500a402)
+[![Gmail](https://img.shields.io/badge/Gmail-makarovsam13%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:makarovsam13@gmail.com)
 
 
 ## What I can help with
