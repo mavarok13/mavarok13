@@ -2,6 +2,11 @@
 
 I build practical software: client-server applications, desktop GUI tools and Telegram bots.
 
+## Contact
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn:%20Sam%20Makarov-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/sam-makarov-94500a402)
+[![Gmail](https://img.shields.io/badge/Gmail:%20makarovsam13@gmail.com-D14836?logo=gmail&logoColor=white)](makarovsam13@gmail.com)
+
+
 ## What I can help with
 - Client-server apps: REST API, networking, databases, Docker
 - Desktop GUI applications and utilities
@@ -25,7 +30,3 @@ Desktop scheduling application.
 
 ## Tech
 C++, Python, CMake, Docker, PostgreSQL, Git, Telegram Bot API
-
-## Contact
-LinkedIn: www.linkedin.com/in/sam-makarov-94500a402
-Email: makarovsam13@gmail.com
